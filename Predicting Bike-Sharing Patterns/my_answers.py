@@ -27,7 +27,7 @@ class NeuralNetwork(object):
         # implementation there instead.
         #
 #         def sigmoid(x):
-#            return   # Replace 0 with your sigmoid calculation here
+#            return 0  # Replace 0 with your sigmoid calculation here
 #         self.activation_function = sigmoid
                     
 
